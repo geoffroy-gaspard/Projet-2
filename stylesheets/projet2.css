@@ -1,0 +1,23 @@
+.whole {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    margin: 0 100px 0 100px;
+}
+
+.fblock {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item2 {
+    display: flex;
+}
+
+.bitem1 {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    margin: 0 75px 0 0;
+}
